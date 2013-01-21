@@ -1,6 +1,7 @@
 #my aliases
 alias dig='dig +short'
-alias hype25='ssh hype25@hype25.tmweb.ru'
+alias hexdump='hexdump -C';
+
 alias trollfred='ssh trollfred@trollfred.tmweb.ru'
 
 #complete hacks
