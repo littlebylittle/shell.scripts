@@ -1,6 +1,8 @@
 #my aliases
 alias dig='dig +short'
 alias hexdump='hexdump -C';
+alias df='df -h';
+alias du='du -h';
 
 alias trollfred='ssh trollfred@trollfred.tmweb.ru'
 
