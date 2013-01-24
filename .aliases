@@ -1,0 +1,10 @@
+#my aliases
+alias dig='dig +short'
+alias hexdump='hexdump -C';
+alias df='df -h';
+alias du='du -h';
+alias trollfred='ssh trollfred@trollfred.tmweb.ru'
+#monitor off
+alias off='sleep 1; xset dpms force off'
+#random text commit
+alias random_commit='git commit -m "$(curl -s http://whatthecommit.com/index.txt)"'
